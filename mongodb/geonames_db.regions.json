@@ -1,0 +1,24 @@
+[{
+  "_id": 1,
+  "name": "AFRICA"
+},
+{
+  "_id": 2,
+  "name": "AMERICAS"
+},
+{
+  "_id": 3,
+  "name": "ASIA"
+},
+{
+  "_id": 4,
+  "name": "EUROPE"
+},
+{
+  "_id": 5,
+  "name": "OCEANIA"
+},
+{
+  "_id": 6,
+  "name": "POLAR"
+}]

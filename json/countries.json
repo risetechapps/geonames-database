@@ -53,7 +53,8 @@
     "latitude": "33.00000000",
     "longitude": "65.00000000",
     "emoji": "🇦🇫",
-    "emojiU": "U+1F1E6 U+1F1EB"
+    "emojiU": "U+1F1E6 U+1F1EB",
+    "language_code": "en-US"
   },
   {
     "id": 2,
@@ -109,7 +110,8 @@
     "latitude": "60.11666700",
     "longitude": "19.90000000",
     "emoji": "🇦🇽",
-    "emojiU": "U+1F1E6 U+1F1FD"
+    "emojiU": "U+1F1E6 U+1F1FD",
+    "language_code": "en-US"
   },
   {
     "id": 3,
@@ -165,7 +167,8 @@
     "latitude": "41.00000000",
     "longitude": "20.00000000",
     "emoji": "🇦🇱",
-    "emojiU": "U+1F1E6 U+1F1F1"
+    "emojiU": "U+1F1E6 U+1F1F1",
+    "language_code": "en-US"
   },
   {
     "id": 4,
@@ -221,7 +224,8 @@
     "latitude": "28.00000000",
     "longitude": "3.00000000",
     "emoji": "🇩🇿",
-    "emojiU": "U+1F1E9 U+1F1FF"
+    "emojiU": "U+1F1E9 U+1F1FF",
+    "language_code": "en-US"
   },
   {
     "id": 5,
@@ -277,7 +281,8 @@
     "latitude": "-14.33333333",
     "longitude": "-170.00000000",
     "emoji": "🇦🇸",
-    "emojiU": "U+1F1E6 U+1F1F8"
+    "emojiU": "U+1F1E6 U+1F1F8",
+    "language_code": "en-US"
   },
   {
     "id": 6,
@@ -333,7 +338,8 @@
     "latitude": "42.50000000",
     "longitude": "1.50000000",
     "emoji": "🇦🇩",
-    "emojiU": "U+1F1E6 U+1F1E9"
+    "emojiU": "U+1F1E6 U+1F1E9",
+    "language_code": "en-US"
   },
   {
     "id": 7,
@@ -389,7 +395,8 @@
     "latitude": "-12.50000000",
     "longitude": "18.50000000",
     "emoji": "🇦🇴",
-    "emojiU": "U+1F1E6 U+1F1F4"
+    "emojiU": "U+1F1E6 U+1F1F4",
+    "language_code": "en-US"
   },
   {
     "id": 8,
@@ -445,7 +452,8 @@
     "latitude": "18.25000000",
     "longitude": "-63.16666666",
     "emoji": "🇦🇮",
-    "emojiU": "U+1F1E6 U+1F1EE"
+    "emojiU": "U+1F1E6 U+1F1EE",
+    "language_code": "en-US"
   },
   {
     "id": 9,
@@ -564,7 +572,8 @@
     "latitude": "-74.65000000",
     "longitude": "4.48000000",
     "emoji": "🇦🇶",
-    "emojiU": "U+1F1E6 U+1F1F6"
+    "emojiU": "U+1F1E6 U+1F1F6",
+    "language_code": "en-US"
   },
   {
     "id": 10,
@@ -620,7 +629,8 @@
     "latitude": "17.05000000",
     "longitude": "-61.80000000",
     "emoji": "🇦🇬",
-    "emojiU": "U+1F1E6 U+1F1EC"
+    "emojiU": "U+1F1E6 U+1F1EC",
+    "language_code": "en-US"
   },
   {
     "id": 11,
@@ -753,7 +763,8 @@
     "latitude": "-34.00000000",
     "longitude": "-64.00000000",
     "emoji": "🇦🇷",
-    "emojiU": "U+1F1E6 U+1F1F7"
+    "emojiU": "U+1F1E6 U+1F1F7",
+    "language_code": "en-US"
   },
   {
     "id": 12,
@@ -809,7 +820,8 @@
     "latitude": "40.00000000",
     "longitude": "45.00000000",
     "emoji": "🇦🇲",
-    "emojiU": "U+1F1E6 U+1F1F2"
+    "emojiU": "U+1F1E6 U+1F1F2",
+    "language_code": "en-US"
   },
   {
     "id": 13,
@@ -865,7 +877,8 @@
     "latitude": "12.50000000",
     "longitude": "-69.96666666",
     "emoji": "🇦🇼",
-    "emojiU": "U+1F1E6 U+1F1FC"
+    "emojiU": "U+1F1E6 U+1F1FC",
+    "language_code": "en-US"
   },
   {
     "id": 14,
@@ -1005,7 +1018,8 @@
     "latitude": "-27.00000000",
     "longitude": "133.00000000",
     "emoji": "🇦🇺",
-    "emojiU": "U+1F1E6 U+1F1FA"
+    "emojiU": "U+1F1E6 U+1F1FA",
+    "language_code": "en-US"
   },
   {
     "id": 15,
@@ -1061,7 +1075,8 @@
     "latitude": "47.33333333",
     "longitude": "13.33333333",
     "emoji": "🇦🇹",
-    "emojiU": "U+1F1E6 U+1F1F9"
+    "emojiU": "U+1F1E6 U+1F1F9",
+    "language_code": "en-US"
   },
   {
     "id": 16,
@@ -1117,7 +1132,8 @@
     "latitude": "40.50000000",
     "longitude": "47.50000000",
     "emoji": "🇦🇿",
-    "emojiU": "U+1F1E6 U+1F1FF"
+    "emojiU": "U+1F1E6 U+1F1FF",
+    "language_code": "en-US"
   },
   {
     "id": 18,
@@ -1173,7 +1189,8 @@
     "latitude": "26.00000000",
     "longitude": "50.55000000",
     "emoji": "🇧🇭",
-    "emojiU": "U+1F1E7 U+1F1ED"
+    "emojiU": "U+1F1E7 U+1F1ED",
+    "language_code": "en-US"
   },
   {
     "id": 19,
@@ -1229,7 +1246,8 @@
     "latitude": "24.00000000",
     "longitude": "90.00000000",
     "emoji": "🇧🇩",
-    "emojiU": "U+1F1E7 U+1F1E9"
+    "emojiU": "U+1F1E7 U+1F1E9",
+    "language_code": "en-US"
   },
   {
     "id": 20,
@@ -1285,7 +1303,8 @@
     "latitude": "13.16666666",
     "longitude": "-59.53333333",
     "emoji": "🇧🇧",
-    "emojiU": "U+1F1E7 U+1F1E7"
+    "emojiU": "U+1F1E7 U+1F1E7",
+    "language_code": "en-US"
   },
   {
     "id": 21,
@@ -1341,7 +1360,8 @@
     "latitude": "53.00000000",
     "longitude": "28.00000000",
     "emoji": "🇧🇾",
-    "emojiU": "U+1F1E7 U+1F1FE"
+    "emojiU": "U+1F1E7 U+1F1FE",
+    "language_code": "en-US"
   },
   {
     "id": 22,
@@ -1397,7 +1417,8 @@
     "latitude": "50.83333333",
     "longitude": "4.00000000",
     "emoji": "🇧🇪",
-    "emojiU": "U+1F1E7 U+1F1EA"
+    "emojiU": "U+1F1E7 U+1F1EA",
+    "language_code": "en-US"
   },
   {
     "id": 23,
@@ -1453,7 +1474,8 @@
     "latitude": "17.25000000",
     "longitude": "-88.75000000",
     "emoji": "🇧🇿",
-    "emojiU": "U+1F1E7 U+1F1FF"
+    "emojiU": "U+1F1E7 U+1F1FF",
+    "language_code": "en-US"
   },
   {
     "id": 24,
@@ -1509,7 +1531,8 @@
     "latitude": "9.50000000",
     "longitude": "2.25000000",
     "emoji": "🇧🇯",
-    "emojiU": "U+1F1E7 U+1F1EF"
+    "emojiU": "U+1F1E7 U+1F1EF",
+    "language_code": "en-US"
   },
   {
     "id": 25,
@@ -1565,7 +1588,8 @@
     "latitude": "32.33333333",
     "longitude": "-64.75000000",
     "emoji": "🇧🇲",
-    "emojiU": "U+1F1E7 U+1F1F2"
+    "emojiU": "U+1F1E7 U+1F1F2",
+    "language_code": "en-US"
   },
   {
     "id": 26,
@@ -1621,7 +1645,8 @@
     "latitude": "27.50000000",
     "longitude": "90.50000000",
     "emoji": "🇧🇹",
-    "emojiU": "U+1F1E7 U+1F1F9"
+    "emojiU": "U+1F1E7 U+1F1F9",
+    "language_code": "en-US"
   },
   {
     "id": 27,
@@ -1677,7 +1702,8 @@
     "latitude": "-17.00000000",
     "longitude": "-65.00000000",
     "emoji": "🇧🇴",
-    "emojiU": "U+1F1E7 U+1F1F4"
+    "emojiU": "U+1F1E7 U+1F1F4",
+    "language_code": "en-US"
   },
   {
     "id": 155,
@@ -1729,7 +1755,8 @@
     "latitude": "12.15000000",
     "longitude": "-68.26666700",
     "emoji": "🇧🇶",
-    "emojiU": "U+1F1E7 U+1F1F6"
+    "emojiU": "U+1F1E7 U+1F1F6",
+    "language_code": "en-US"
   },
   {
     "id": 28,
@@ -1785,7 +1812,8 @@
     "latitude": "44.00000000",
     "longitude": "18.00000000",
     "emoji": "🇧🇦",
-    "emojiU": "U+1F1E7 U+1F1E6"
+    "emojiU": "U+1F1E7 U+1F1E6",
+    "language_code": "en-US"
   },
   {
     "id": 29,
@@ -1841,7 +1869,8 @@
     "latitude": "-22.00000000",
     "longitude": "24.00000000",
     "emoji": "🇧🇼",
-    "emojiU": "U+1F1E7 U+1F1FC"
+    "emojiU": "U+1F1E7 U+1F1FC",
+    "language_code": "en-US"
   },
   {
     "id": 30,
@@ -1897,7 +1926,8 @@
     "latitude": "-54.43333333",
     "longitude": "3.40000000",
     "emoji": "🇧🇻",
-    "emojiU": "U+1F1E7 U+1F1FB"
+    "emojiU": "U+1F1E7 U+1F1FB",
+    "language_code": "en-US"
   },
   {
     "id": 31,
@@ -2058,7 +2088,8 @@
     "latitude": "-10.00000000",
     "longitude": "-55.00000000",
     "emoji": "🇧🇷",
-    "emojiU": "U+1F1E7 U+1F1F7"
+    "emojiU": "U+1F1E7 U+1F1F7",
+    "language_code": "pt-BR"
   },
   {
     "id": 32,
@@ -2114,7 +2145,8 @@
     "latitude": "-6.00000000",
     "longitude": "71.50000000",
     "emoji": "🇮🇴",
-    "emojiU": "U+1F1EE U+1F1F4"
+    "emojiU": "U+1F1EE U+1F1F4",
+    "language_code": "en-US"
   },
   {
     "id": 33,
@@ -2170,7 +2202,8 @@
     "latitude": "4.50000000",
     "longitude": "114.66666666",
     "emoji": "🇧🇳",
-    "emojiU": "U+1F1E7 U+1F1F3"
+    "emojiU": "U+1F1E7 U+1F1F3",
+    "language_code": "en-US"
   },
   {
     "id": 34,
@@ -2226,7 +2259,8 @@
     "latitude": "43.00000000",
     "longitude": "25.00000000",
     "emoji": "🇧🇬",
-    "emojiU": "U+1F1E7 U+1F1EC"
+    "emojiU": "U+1F1E7 U+1F1EC",
+    "language_code": "en-US"
   },
   {
     "id": 35,
@@ -2282,7 +2316,8 @@
     "latitude": "13.00000000",
     "longitude": "-2.00000000",
     "emoji": "🇧🇫",
-    "emojiU": "U+1F1E7 U+1F1EB"
+    "emojiU": "U+1F1E7 U+1F1EB",
+    "language_code": "en-US"
   },
   {
     "id": 36,
@@ -2338,7 +2373,8 @@
     "latitude": "-3.50000000",
     "longitude": "30.00000000",
     "emoji": "🇧🇮",
-    "emojiU": "U+1F1E7 U+1F1EE"
+    "emojiU": "U+1F1E7 U+1F1EE",
+    "language_code": "en-US"
   },
   {
     "id": 37,
@@ -2394,7 +2430,8 @@
     "latitude": "13.00000000",
     "longitude": "105.00000000",
     "emoji": "🇰🇭",
-    "emojiU": "U+1F1F0 U+1F1ED"
+    "emojiU": "U+1F1F0 U+1F1ED",
+    "language_code": "en-US"
   },
   {
     "id": 38,
@@ -2450,7 +2487,8 @@
     "latitude": "6.00000000",
     "longitude": "12.00000000",
     "emoji": "🇨🇲",
-    "emojiU": "U+1F1E8 U+1F1F2"
+    "emojiU": "U+1F1E8 U+1F1F2",
+    "language_code": "en-US"
   },
   {
     "id": 39,
@@ -2695,7 +2733,8 @@
     "latitude": "60.00000000",
     "longitude": "-95.00000000",
     "emoji": "🇨🇦",
-    "emojiU": "U+1F1E8 U+1F1E6"
+    "emojiU": "U+1F1E8 U+1F1E6",
+    "language_code": "en-US"
   },
   {
     "id": 40,
@@ -2751,7 +2790,8 @@
     "latitude": "16.00000000",
     "longitude": "-24.00000000",
     "emoji": "🇨🇻",
-    "emojiU": "U+1F1E8 U+1F1FB"
+    "emojiU": "U+1F1E8 U+1F1FB",
+    "language_code": "en-US"
   },
   {
     "id": 41,
@@ -2807,7 +2847,8 @@
     "latitude": "19.50000000",
     "longitude": "-80.50000000",
     "emoji": "🇰🇾",
-    "emojiU": "U+1F1F0 U+1F1FE"
+    "emojiU": "U+1F1F0 U+1F1FE",
+    "language_code": "en-US"
   },
   {
     "id": 42,
@@ -2863,7 +2904,8 @@
     "latitude": "7.00000000",
     "longitude": "21.00000000",
     "emoji": "🇨🇫",
-    "emojiU": "U+1F1E8 U+1F1EB"
+    "emojiU": "U+1F1E8 U+1F1EB",
+    "language_code": "en-US"
   },
   {
     "id": 43,
@@ -2919,7 +2961,8 @@
     "latitude": "15.00000000",
     "longitude": "19.00000000",
     "emoji": "🇹🇩",
-    "emojiU": "U+1F1F9 U+1F1E9"
+    "emojiU": "U+1F1F9 U+1F1E9",
+    "language_code": "en-US"
   },
   {
     "id": 44,
@@ -2989,7 +3032,8 @@
     "latitude": "-30.00000000",
     "longitude": "-71.00000000",
     "emoji": "🇨🇱",
-    "emojiU": "U+1F1E8 U+1F1F1"
+    "emojiU": "U+1F1E8 U+1F1F1",
+    "language_code": "en-US"
   },
   {
     "id": 45,
@@ -3052,7 +3096,8 @@
     "latitude": "35.00000000",
     "longitude": "105.00000000",
     "emoji": "🇨🇳",
-    "emojiU": "U+1F1E8 U+1F1F3"
+    "emojiU": "U+1F1E8 U+1F1F3",
+    "language_code": "en-US"
   },
   {
     "id": 46,
@@ -3108,7 +3153,8 @@
     "latitude": "-10.50000000",
     "longitude": "105.66666666",
     "emoji": "🇨🇽",
-    "emojiU": "U+1F1E8 U+1F1FD"
+    "emojiU": "U+1F1E8 U+1F1FD",
+    "language_code": "en-US"
   },
   {
     "id": 47,
@@ -3164,7 +3210,8 @@
     "latitude": "-12.50000000",
     "longitude": "96.83333333",
     "emoji": "🇨🇨",
-    "emojiU": "U+1F1E8 U+1F1E8"
+    "emojiU": "U+1F1E8 U+1F1E8",
+    "language_code": "en-US"
   },
   {
     "id": 48,
@@ -3220,7 +3267,8 @@
     "latitude": "4.00000000",
     "longitude": "-72.00000000",
     "emoji": "🇨🇴",
-    "emojiU": "U+1F1E8 U+1F1F4"
+    "emojiU": "U+1F1E8 U+1F1F4",
+    "language_code": "en-US"
   },
   {
     "id": 49,
@@ -3276,7 +3324,8 @@
     "latitude": "-12.16666666",
     "longitude": "44.25000000",
     "emoji": "🇰🇲",
-    "emojiU": "U+1F1F0 U+1F1F2"
+    "emojiU": "U+1F1F0 U+1F1F2",
+    "language_code": "en-US"
   },
   {
     "id": 50,
@@ -3332,7 +3381,8 @@
     "latitude": "-1.00000000",
     "longitude": "15.00000000",
     "emoji": "🇨🇬",
-    "emojiU": "U+1F1E8 U+1F1EC"
+    "emojiU": "U+1F1E8 U+1F1EC",
+    "language_code": "en-US"
   },
   {
     "id": 52,
@@ -3388,7 +3438,8 @@
     "latitude": "-21.23333333",
     "longitude": "-159.76666666",
     "emoji": "🇨🇰",
-    "emojiU": "U+1F1E8 U+1F1F0"
+    "emojiU": "U+1F1E8 U+1F1F0",
+    "language_code": "en-US"
   },
   {
     "id": 53,
@@ -3444,7 +3495,8 @@
     "latitude": "10.00000000",
     "longitude": "-84.00000000",
     "emoji": "🇨🇷",
-    "emojiU": "U+1F1E8 U+1F1F7"
+    "emojiU": "U+1F1E8 U+1F1F7",
+    "language_code": "en-US"
   },
   {
     "id": 55,
@@ -3500,7 +3552,8 @@
     "latitude": "45.16666666",
     "longitude": "15.50000000",
     "emoji": "🇭🇷",
-    "emojiU": "U+1F1ED U+1F1F7"
+    "emojiU": "U+1F1ED U+1F1F7",
+    "language_code": "en-US"
   },
   {
     "id": 56,
@@ -3556,7 +3609,8 @@
     "latitude": "21.50000000",
     "longitude": "-80.00000000",
     "emoji": "🇨🇺",
-    "emojiU": "U+1F1E8 U+1F1FA"
+    "emojiU": "U+1F1E8 U+1F1FA",
+    "language_code": "en-US"
   },
   {
     "id": 249,
@@ -3609,7 +3663,8 @@
     "latitude": "12.11666700",
     "longitude": "-68.93333300",
     "emoji": "🇨🇼",
-    "emojiU": "U+1F1E8 U+1F1FC"
+    "emojiU": "U+1F1E8 U+1F1FC",
+    "language_code": "en-US"
   },
   {
     "id": 57,
@@ -3672,7 +3727,8 @@
     "latitude": "35.00000000",
     "longitude": "33.00000000",
     "emoji": "🇨🇾",
-    "emojiU": "U+1F1E8 U+1F1FE"
+    "emojiU": "U+1F1E8 U+1F1FE",
+    "language_code": "en-US"
   },
   {
     "id": 58,
@@ -3728,7 +3784,8 @@
     "latitude": "49.75000000",
     "longitude": "15.50000000",
     "emoji": "🇨🇿",
-    "emojiU": "U+1F1E8 U+1F1FF"
+    "emojiU": "U+1F1E8 U+1F1FF",
+    "language_code": "en-US"
   },
   {
     "id": 51,
@@ -3791,7 +3848,8 @@
     "latitude": "0.00000000",
     "longitude": "25.00000000",
     "emoji": "🇨🇩",
-    "emojiU": "U+1F1E8 U+1F1E9"
+    "emojiU": "U+1F1E8 U+1F1E9",
+    "language_code": "en-US"
   },
   {
     "id": 59,
@@ -3847,7 +3905,8 @@
     "latitude": "56.00000000",
     "longitude": "10.00000000",
     "emoji": "🇩🇰",
-    "emojiU": "U+1F1E9 U+1F1F0"
+    "emojiU": "U+1F1E9 U+1F1F0",
+    "language_code": "en-US"
   },
   {
     "id": 60,
@@ -3903,7 +3962,8 @@
     "latitude": "11.50000000",
     "longitude": "43.00000000",
     "emoji": "🇩🇯",
-    "emojiU": "U+1F1E9 U+1F1EF"
+    "emojiU": "U+1F1E9 U+1F1EF",
+    "language_code": "en-US"
   },
   {
     "id": 61,
@@ -3959,7 +4019,8 @@
     "latitude": "15.41666666",
     "longitude": "-61.33333333",
     "emoji": "🇩🇲",
-    "emojiU": "U+1F1E9 U+1F1F2"
+    "emojiU": "U+1F1E9 U+1F1F2",
+    "language_code": "en-US"
   },
   {
     "id": 62,
@@ -4015,7 +4076,8 @@
     "latitude": "19.00000000",
     "longitude": "-70.66666666",
     "emoji": "🇩🇴",
-    "emojiU": "U+1F1E9 U+1F1F4"
+    "emojiU": "U+1F1E9 U+1F1F4",
+    "language_code": "en-US"
   },
   {
     "id": 64,
@@ -4078,7 +4140,8 @@
     "latitude": "-2.00000000",
     "longitude": "-77.50000000",
     "emoji": "🇪🇨",
-    "emojiU": "U+1F1EA U+1F1E8"
+    "emojiU": "U+1F1EA U+1F1E8",
+    "language_code": "en-US"
   },
   {
     "id": 65,
@@ -4134,7 +4197,8 @@
     "latitude": "27.00000000",
     "longitude": "30.00000000",
     "emoji": "🇪🇬",
-    "emojiU": "U+1F1EA U+1F1EC"
+    "emojiU": "U+1F1EA U+1F1EC",
+    "language_code": "en-US"
   },
   {
     "id": 66,
@@ -4190,7 +4254,8 @@
     "latitude": "13.83333333",
     "longitude": "-88.91666666",
     "emoji": "🇸🇻",
-    "emojiU": "U+1F1F8 U+1F1FB"
+    "emojiU": "U+1F1F8 U+1F1FB",
+    "language_code": "en-US"
   },
   {
     "id": 67,
@@ -4246,7 +4311,8 @@
     "latitude": "2.00000000",
     "longitude": "10.00000000",
     "emoji": "🇬🇶",
-    "emojiU": "U+1F1EC U+1F1F6"
+    "emojiU": "U+1F1EC U+1F1F6",
+    "language_code": "en-US"
   },
   {
     "id": 68,
@@ -4302,7 +4368,8 @@
     "latitude": "15.00000000",
     "longitude": "39.00000000",
     "emoji": "🇪🇷",
-    "emojiU": "U+1F1EA U+1F1F7"
+    "emojiU": "U+1F1EA U+1F1F7",
+    "language_code": "en-US"
   },
   {
     "id": 69,
@@ -4358,7 +4425,8 @@
     "latitude": "59.00000000",
     "longitude": "26.00000000",
     "emoji": "🇪🇪",
-    "emojiU": "U+1F1EA U+1F1EA"
+    "emojiU": "U+1F1EA U+1F1EA",
+    "language_code": "en-US"
   },
   {
     "id": 212,
@@ -4414,7 +4482,8 @@
     "latitude": "-26.50000000",
     "longitude": "31.50000000",
     "emoji": "🇸🇿",
-    "emojiU": "U+1F1F8 U+1F1FF"
+    "emojiU": "U+1F1F8 U+1F1FF",
+    "language_code": "en-US"
   },
   {
     "id": 70,
@@ -4470,7 +4539,8 @@
     "latitude": "8.00000000",
     "longitude": "38.00000000",
     "emoji": "🇪🇹",
-    "emojiU": "U+1F1EA U+1F1F9"
+    "emojiU": "U+1F1EA U+1F1F9",
+    "language_code": "en-US"
   },
   {
     "id": 71,
@@ -4526,7 +4596,8 @@
     "latitude": "-51.75000000",
     "longitude": "-59.00000000",
     "emoji": "🇫🇰",
-    "emojiU": "U+1F1EB U+1F1F0"
+    "emojiU": "U+1F1EB U+1F1F0",
+    "language_code": "en-US"
   },
   {
     "id": 72,
@@ -4582,7 +4653,8 @@
     "latitude": "62.00000000",
     "longitude": "-7.00000000",
     "emoji": "🇫🇴",
-    "emojiU": "U+1F1EB U+1F1F4"
+    "emojiU": "U+1F1EB U+1F1F4",
+    "language_code": "en-US"
   },
   {
     "id": 73,
@@ -4638,7 +4710,8 @@
     "latitude": "-18.00000000",
     "longitude": "175.00000000",
     "emoji": "🇫🇯",
-    "emojiU": "U+1F1EB U+1F1EF"
+    "emojiU": "U+1F1EB U+1F1EF",
+    "language_code": "en-US"
   },
   {
     "id": 74,
@@ -4694,7 +4767,8 @@
     "latitude": "64.00000000",
     "longitude": "26.00000000",
     "emoji": "🇫🇮",
-    "emojiU": "U+1F1EB U+1F1EE"
+    "emojiU": "U+1F1EB U+1F1EE",
+    "language_code": "en-US"
   },
   {
     "id": 75,
@@ -4750,7 +4824,8 @@
     "latitude": "46.00000000",
     "longitude": "2.00000000",
     "emoji": "🇫🇷",
-    "emojiU": "U+1F1EB U+1F1F7"
+    "emojiU": "U+1F1EB U+1F1F7",
+    "language_code": "en-US"
   },
   {
     "id": 76,
@@ -4806,7 +4881,8 @@
     "latitude": "4.00000000",
     "longitude": "-53.00000000",
     "emoji": "🇬🇫",
-    "emojiU": "U+1F1EC U+1F1EB"
+    "emojiU": "U+1F1EC U+1F1EB",
+    "language_code": "en-US"
   },
   {
     "id": 77,
@@ -4876,7 +4952,8 @@
     "latitude": "-15.00000000",
     "longitude": "-140.00000000",
     "emoji": "🇵🇫",
-    "emojiU": "U+1F1F5 U+1F1EB"
+    "emojiU": "U+1F1F5 U+1F1EB",
+    "language_code": "en-US"
   },
   {
     "id": 78,
@@ -4932,7 +5009,8 @@
     "latitude": "-49.25000000",
     "longitude": "69.16700000",
     "emoji": "🇹🇫",
-    "emojiU": "U+1F1F9 U+1F1EB"
+    "emojiU": "U+1F1F9 U+1F1EB",
+    "language_code": "en-US"
   },
   {
     "id": 79,
@@ -4988,7 +5066,8 @@
     "latitude": "-1.00000000",
     "longitude": "11.75000000",
     "emoji": "🇬🇦",
-    "emojiU": "U+1F1EC U+1F1E6"
+    "emojiU": "U+1F1EC U+1F1E6",
+    "language_code": "en-US"
   },
   {
     "id": 81,
@@ -5044,7 +5123,8 @@
     "latitude": "42.00000000",
     "longitude": "43.50000000",
     "emoji": "🇬🇪",
-    "emojiU": "U+1F1EC U+1F1EA"
+    "emojiU": "U+1F1EC U+1F1EA",
+    "language_code": "en-US"
   },
   {
     "id": 82,
@@ -5107,7 +5187,8 @@
     "latitude": "51.00000000",
     "longitude": "9.00000000",
     "emoji": "🇩🇪",
-    "emojiU": "U+1F1E9 U+1F1EA"
+    "emojiU": "U+1F1E9 U+1F1EA",
+    "language_code": "en-US"
   },
   {
     "id": 83,
@@ -5163,7 +5244,8 @@
     "latitude": "8.00000000",
     "longitude": "-2.00000000",
     "emoji": "🇬🇭",
-    "emojiU": "U+1F1EC U+1F1ED"
+    "emojiU": "U+1F1EC U+1F1ED",
+    "language_code": "en-US"
   },
   {
     "id": 84,
@@ -5219,7 +5301,8 @@
     "latitude": "36.13333333",
     "longitude": "-5.35000000",
     "emoji": "🇬🇮",
-    "emojiU": "U+1F1EC U+1F1EE"
+    "emojiU": "U+1F1EC U+1F1EE",
+    "language_code": "en-US"
   },
   {
     "id": 85,
@@ -5275,7 +5358,8 @@
     "latitude": "39.00000000",
     "longitude": "22.00000000",
     "emoji": "🇬🇷",
-    "emojiU": "U+1F1EC U+1F1F7"
+    "emojiU": "U+1F1EC U+1F1F7",
+    "language_code": "en-US"
   },
   {
     "id": 86,
@@ -5352,7 +5436,8 @@
     "latitude": "72.00000000",
     "longitude": "-40.00000000",
     "emoji": "🇬🇱",
-    "emojiU": "U+1F1EC U+1F1F1"
+    "emojiU": "U+1F1EC U+1F1F1",
+    "language_code": "en-US"
   },
   {
     "id": 87,
@@ -5408,7 +5493,8 @@
     "latitude": "12.11666666",
     "longitude": "-61.66666666",
     "emoji": "🇬🇩",
-    "emojiU": "U+1F1EC U+1F1E9"
+    "emojiU": "U+1F1EC U+1F1E9",
+    "language_code": "en-US"
   },
   {
     "id": 88,
@@ -5464,7 +5550,8 @@
     "latitude": "16.25000000",
     "longitude": "-61.58333300",
     "emoji": "🇬🇵",
-    "emojiU": "U+1F1EC U+1F1F5"
+    "emojiU": "U+1F1EC U+1F1F5",
+    "language_code": "en-US"
   },
   {
     "id": 89,
@@ -5520,7 +5607,8 @@
     "latitude": "13.46666666",
     "longitude": "144.78333333",
     "emoji": "🇬🇺",
-    "emojiU": "U+1F1EC U+1F1FA"
+    "emojiU": "U+1F1EC U+1F1FA",
+    "language_code": "en-US"
   },
   {
     "id": 90,
@@ -5576,7 +5664,8 @@
     "latitude": "15.50000000",
     "longitude": "-90.25000000",
     "emoji": "🇬🇹",
-    "emojiU": "U+1F1EC U+1F1F9"
+    "emojiU": "U+1F1EC U+1F1F9",
+    "language_code": "en-US"
   },
   {
     "id": 91,
@@ -5632,7 +5721,8 @@
     "latitude": "49.46666666",
     "longitude": "-2.58333333",
     "emoji": "🇬🇬",
-    "emojiU": "U+1F1EC U+1F1EC"
+    "emojiU": "U+1F1EC U+1F1EC",
+    "language_code": "en-US"
   },
   {
     "id": 92,
@@ -5688,7 +5778,8 @@
     "latitude": "11.00000000",
     "longitude": "-10.00000000",
     "emoji": "🇬🇳",
-    "emojiU": "U+1F1EC U+1F1F3"
+    "emojiU": "U+1F1EC U+1F1F3",
+    "language_code": "en-US"
   },
   {
     "id": 93,
@@ -5744,7 +5835,8 @@
     "latitude": "12.00000000",
     "longitude": "-15.00000000",
     "emoji": "🇬🇼",
-    "emojiU": "U+1F1EC U+1F1FC"
+    "emojiU": "U+1F1EC U+1F1FC",
+    "language_code": "en-US"
   },
   {
     "id": 94,
@@ -5800,7 +5892,8 @@
     "latitude": "5.00000000",
     "longitude": "-59.00000000",
     "emoji": "🇬🇾",
-    "emojiU": "U+1F1EC U+1F1FE"
+    "emojiU": "U+1F1EC U+1F1FE",
+    "language_code": "en-US"
   },
   {
     "id": 95,
@@ -5856,7 +5949,8 @@
     "latitude": "19.00000000",
     "longitude": "-72.41666666",
     "emoji": "🇭🇹",
-    "emojiU": "U+1F1ED U+1F1F9"
+    "emojiU": "U+1F1ED U+1F1F9",
+    "language_code": "en-US"
   },
   {
     "id": 96,
@@ -5912,7 +6006,8 @@
     "latitude": "-53.10000000",
     "longitude": "72.51666666",
     "emoji": "🇭🇲",
-    "emojiU": "U+1F1ED U+1F1F2"
+    "emojiU": "U+1F1ED U+1F1F2",
+    "language_code": "en-US"
   },
   {
     "id": 97,
@@ -5968,7 +6063,8 @@
     "latitude": "15.00000000",
     "longitude": "-86.50000000",
     "emoji": "🇭🇳",
-    "emojiU": "U+1F1ED U+1F1F3"
+    "emojiU": "U+1F1ED U+1F1F3",
+    "language_code": "en-US"
   },
   {
     "id": 98,
@@ -6024,7 +6120,8 @@
     "latitude": "22.25000000",
     "longitude": "114.16666666",
     "emoji": "🇭🇰",
-    "emojiU": "U+1F1ED U+1F1F0"
+    "emojiU": "U+1F1ED U+1F1F0",
+    "language_code": "en-US"
   },
   {
     "id": 99,
@@ -6080,7 +6177,8 @@
     "latitude": "47.00000000",
     "longitude": "20.00000000",
     "emoji": "🇭🇺",
-    "emojiU": "U+1F1ED U+1F1FA"
+    "emojiU": "U+1F1ED U+1F1FA",
+    "language_code": "en-US"
   },
   {
     "id": 100,
@@ -6136,7 +6234,8 @@
     "latitude": "65.00000000",
     "longitude": "-18.00000000",
     "emoji": "🇮🇸",
-    "emojiU": "U+1F1EE U+1F1F8"
+    "emojiU": "U+1F1EE U+1F1F8",
+    "language_code": "en-US"
   },
   {
     "id": 101,
@@ -6192,7 +6291,8 @@
     "latitude": "20.00000000",
     "longitude": "77.00000000",
     "emoji": "🇮🇳",
-    "emojiU": "U+1F1EE U+1F1F3"
+    "emojiU": "U+1F1EE U+1F1F3",
+    "language_code": "en-US"
   },
   {
     "id": 102,
@@ -6269,7 +6369,8 @@
     "latitude": "-5.00000000",
     "longitude": "120.00000000",
     "emoji": "🇮🇩",
-    "emojiU": "U+1F1EE U+1F1E9"
+    "emojiU": "U+1F1EE U+1F1E9",
+    "language_code": "en-US"
   },
   {
     "id": 103,
@@ -6324,7 +6425,8 @@
     "latitude": "32.00000000",
     "longitude": "53.00000000",
     "emoji": "🇮🇷",
-    "emojiU": "U+1F1EE U+1F1F7"
+    "emojiU": "U+1F1EE U+1F1F7",
+    "language_code": "en-US"
   },
   {
     "id": 104,
@@ -6380,7 +6482,8 @@
     "latitude": "33.00000000",
     "longitude": "44.00000000",
     "emoji": "🇮🇶",
-    "emojiU": "U+1F1EE U+1F1F6"
+    "emojiU": "U+1F1EE U+1F1F6",
+    "language_code": "en-US"
   },
   {
     "id": 105,
@@ -6436,7 +6539,8 @@
     "latitude": "53.00000000",
     "longitude": "-8.00000000",
     "emoji": "🇮🇪",
-    "emojiU": "U+1F1EE U+1F1EA"
+    "emojiU": "U+1F1EE U+1F1EA",
+    "language_code": "en-US"
   },
   {
     "id": 106,
@@ -6492,7 +6596,8 @@
     "latitude": "31.50000000",
     "longitude": "34.75000000",
     "emoji": "🇮🇱",
-    "emojiU": "U+1F1EE U+1F1F1"
+    "emojiU": "U+1F1EE U+1F1F1",
+    "language_code": "en-US"
   },
   {
     "id": 107,
@@ -6548,7 +6653,8 @@
     "latitude": "42.83333333",
     "longitude": "12.83333333",
     "emoji": "🇮🇹",
-    "emojiU": "U+1F1EE U+1F1F9"
+    "emojiU": "U+1F1EE U+1F1F9",
+    "language_code": "en-US"
   },
   {
     "id": 54,
@@ -6604,7 +6710,8 @@
     "latitude": "8.00000000",
     "longitude": "-5.00000000",
     "emoji": "🇨🇮",
-    "emojiU": "U+1F1E8 U+1F1EE"
+    "emojiU": "U+1F1E8 U+1F1EE",
+    "language_code": "en-US"
   },
   {
     "id": 108,
@@ -6660,7 +6767,8 @@
     "latitude": "18.25000000",
     "longitude": "-77.50000000",
     "emoji": "🇯🇲",
-    "emojiU": "U+1F1EF U+1F1F2"
+    "emojiU": "U+1F1EF U+1F1F2",
+    "language_code": "en-US"
   },
   {
     "id": 109,
@@ -6716,7 +6824,8 @@
     "latitude": "36.00000000",
     "longitude": "138.00000000",
     "emoji": "🇯🇵",
-    "emojiU": "U+1F1EF U+1F1F5"
+    "emojiU": "U+1F1EF U+1F1F5",
+    "language_code": "en-US"
   },
   {
     "id": 110,
@@ -6772,7 +6881,8 @@
     "latitude": "49.25000000",
     "longitude": "-2.16666666",
     "emoji": "🇯🇪",
-    "emojiU": "U+1F1EF U+1F1EA"
+    "emojiU": "U+1F1EF U+1F1EA",
+    "language_code": "en-US"
   },
   {
     "id": 111,
@@ -6828,7 +6938,8 @@
     "latitude": "31.00000000",
     "longitude": "36.00000000",
     "emoji": "🇯🇴",
-    "emojiU": "U+1F1EF U+1F1F4"
+    "emojiU": "U+1F1EF U+1F1F4",
+    "language_code": "en-US"
   },
   {
     "id": 112,
@@ -6926,7 +7037,8 @@
     "latitude": "48.00000000",
     "longitude": "68.00000000",
     "emoji": "🇰🇿",
-    "emojiU": "U+1F1F0 U+1F1FF"
+    "emojiU": "U+1F1F0 U+1F1FF",
+    "language_code": "en-US"
   },
   {
     "id": 113,
@@ -6982,7 +7094,8 @@
     "latitude": "1.00000000",
     "longitude": "38.00000000",
     "emoji": "🇰🇪",
-    "emojiU": "U+1F1F0 U+1F1EA"
+    "emojiU": "U+1F1F0 U+1F1EA",
+    "language_code": "en-US"
   },
   {
     "id": 114,
@@ -7052,7 +7165,8 @@
     "latitude": "1.41666666",
     "longitude": "173.00000000",
     "emoji": "🇰🇮",
-    "emojiU": "U+1F1F0 U+1F1EE"
+    "emojiU": "U+1F1F0 U+1F1EE",
+    "language_code": "en-US"
   },
   {
     "id": 248,
@@ -7098,7 +7212,8 @@
     "latitude": "42.56129090",
     "longitude": "20.34030350",
     "emoji": "🇽🇰",
-    "emojiU": "U+1F1FD U+1F1F0"
+    "emojiU": "U+1F1FD U+1F1F0",
+    "language_code": "en-US"
   },
   {
     "id": 117,
@@ -7154,7 +7269,8 @@
     "latitude": "29.50000000",
     "longitude": "45.75000000",
     "emoji": "🇰🇼",
-    "emojiU": "U+1F1F0 U+1F1FC"
+    "emojiU": "U+1F1F0 U+1F1FC",
+    "language_code": "en-US"
   },
   {
     "id": 118,
@@ -7210,7 +7326,8 @@
     "latitude": "41.00000000",
     "longitude": "75.00000000",
     "emoji": "🇰🇬",
-    "emojiU": "U+1F1F0 U+1F1EC"
+    "emojiU": "U+1F1F0 U+1F1EC",
+    "language_code": "en-US"
   },
   {
     "id": 119,
@@ -7266,7 +7383,8 @@
     "latitude": "18.00000000",
     "longitude": "105.00000000",
     "emoji": "🇱🇦",
-    "emojiU": "U+1F1F1 U+1F1E6"
+    "emojiU": "U+1F1F1 U+1F1E6",
+    "language_code": "en-US"
   },
   {
     "id": 120,
@@ -7322,7 +7440,8 @@
     "latitude": "57.00000000",
     "longitude": "25.00000000",
     "emoji": "🇱🇻",
-    "emojiU": "U+1F1F1 U+1F1FB"
+    "emojiU": "U+1F1F1 U+1F1FB",
+    "language_code": "en-US"
   },
   {
     "id": 121,
@@ -7378,7 +7497,8 @@
     "latitude": "33.83333333",
     "longitude": "35.83333333",
     "emoji": "🇱🇧",
-    "emojiU": "U+1F1F1 U+1F1E7"
+    "emojiU": "U+1F1F1 U+1F1E7",
+    "language_code": "en-US"
   },
   {
     "id": 122,
@@ -7434,7 +7554,8 @@
     "latitude": "-29.50000000",
     "longitude": "28.50000000",
     "emoji": "🇱🇸",
-    "emojiU": "U+1F1F1 U+1F1F8"
+    "emojiU": "U+1F1F1 U+1F1F8",
+    "language_code": "en-US"
   },
   {
     "id": 123,
@@ -7490,7 +7611,8 @@
     "latitude": "6.50000000",
     "longitude": "-9.50000000",
     "emoji": "🇱🇷",
-    "emojiU": "U+1F1F1 U+1F1F7"
+    "emojiU": "U+1F1F1 U+1F1F7",
+    "language_code": "en-US"
   },
   {
     "id": 124,
@@ -7546,7 +7668,8 @@
     "latitude": "25.00000000",
     "longitude": "17.00000000",
     "emoji": "🇱🇾",
-    "emojiU": "U+1F1F1 U+1F1FE"
+    "emojiU": "U+1F1F1 U+1F1FE",
+    "language_code": "en-US"
   },
   {
     "id": 125,
@@ -7602,7 +7725,8 @@
     "latitude": "47.26666666",
     "longitude": "9.53333333",
     "emoji": "🇱🇮",
-    "emojiU": "U+1F1F1 U+1F1EE"
+    "emojiU": "U+1F1F1 U+1F1EE",
+    "language_code": "en-US"
   },
   {
     "id": 126,
@@ -7658,7 +7782,8 @@
     "latitude": "56.00000000",
     "longitude": "24.00000000",
     "emoji": "🇱🇹",
-    "emojiU": "U+1F1F1 U+1F1F9"
+    "emojiU": "U+1F1F1 U+1F1F9",
+    "language_code": "en-US"
   },
   {
     "id": 127,
@@ -7714,7 +7839,8 @@
     "latitude": "49.75000000",
     "longitude": "6.16666666",
     "emoji": "🇱🇺",
-    "emojiU": "U+1F1F1 U+1F1FA"
+    "emojiU": "U+1F1F1 U+1F1FA",
+    "language_code": "en-US"
   },
   {
     "id": 128,
@@ -7770,7 +7896,8 @@
     "latitude": "22.16666666",
     "longitude": "113.55000000",
     "emoji": "🇲🇴",
-    "emojiU": "U+1F1F2 U+1F1F4"
+    "emojiU": "U+1F1F2 U+1F1F4",
+    "language_code": "en-US"
   },
   {
     "id": 130,
@@ -7826,7 +7953,8 @@
     "latitude": "-20.00000000",
     "longitude": "47.00000000",
     "emoji": "🇲🇬",
-    "emojiU": "U+1F1F2 U+1F1EC"
+    "emojiU": "U+1F1F2 U+1F1EC",
+    "language_code": "en-US"
   },
   {
     "id": 131,
@@ -7882,7 +8010,8 @@
     "latitude": "-13.50000000",
     "longitude": "34.00000000",
     "emoji": "🇲🇼",
-    "emojiU": "U+1F1F2 U+1F1FC"
+    "emojiU": "U+1F1F2 U+1F1FC",
+    "language_code": "en-US"
   },
   {
     "id": 132,
@@ -7945,7 +8074,8 @@
     "latitude": "2.50000000",
     "longitude": "112.50000000",
     "emoji": "🇲🇾",
-    "emojiU": "U+1F1F2 U+1F1FE"
+    "emojiU": "U+1F1F2 U+1F1FE",
+    "language_code": "en-US"
   },
   {
     "id": 133,
@@ -8001,7 +8131,8 @@
     "latitude": "3.25000000",
     "longitude": "73.00000000",
     "emoji": "🇲🇻",
-    "emojiU": "U+1F1F2 U+1F1FB"
+    "emojiU": "U+1F1F2 U+1F1FB",
+    "language_code": "en-US"
   },
   {
     "id": 134,
@@ -8057,7 +8188,8 @@
     "latitude": "17.00000000",
     "longitude": "-4.00000000",
     "emoji": "🇲🇱",
-    "emojiU": "U+1F1F2 U+1F1F1"
+    "emojiU": "U+1F1F2 U+1F1F1",
+    "language_code": "en-US"
   },
   {
     "id": 135,
@@ -8113,7 +8245,8 @@
     "latitude": "35.83333333",
     "longitude": "14.58333333",
     "emoji": "🇲🇹",
-    "emojiU": "U+1F1F2 U+1F1F9"
+    "emojiU": "U+1F1F2 U+1F1F9",
+    "language_code": "en-US"
   },
   {
     "id": 136,
@@ -8169,7 +8302,8 @@
     "latitude": "54.25000000",
     "longitude": "-4.50000000",
     "emoji": "🇮🇲",
-    "emojiU": "U+1F1EE U+1F1F2"
+    "emojiU": "U+1F1EE U+1F1F2",
+    "language_code": "en-US"
   },
   {
     "id": 137,
@@ -8232,7 +8366,8 @@
     "latitude": "9.00000000",
     "longitude": "168.00000000",
     "emoji": "🇲🇭",
-    "emojiU": "U+1F1F2 U+1F1ED"
+    "emojiU": "U+1F1F2 U+1F1ED",
+    "language_code": "en-US"
   },
   {
     "id": 138,
@@ -8288,7 +8423,8 @@
     "latitude": "14.66666700",
     "longitude": "-61.00000000",
     "emoji": "🇲🇶",
-    "emojiU": "U+1F1F2 U+1F1F6"
+    "emojiU": "U+1F1F2 U+1F1F6",
+    "language_code": "en-US"
   },
   {
     "id": 139,
@@ -8344,7 +8480,8 @@
     "latitude": "20.00000000",
     "longitude": "-12.00000000",
     "emoji": "🇲🇷",
-    "emojiU": "U+1F1F2 U+1F1F7"
+    "emojiU": "U+1F1F2 U+1F1F7",
+    "language_code": "en-US"
   },
   {
     "id": 140,
@@ -8400,7 +8537,8 @@
     "latitude": "-20.28333333",
     "longitude": "57.55000000",
     "emoji": "🇲🇺",
-    "emojiU": "U+1F1F2 U+1F1FA"
+    "emojiU": "U+1F1F2 U+1F1FA",
+    "language_code": "en-US"
   },
   {
     "id": 141,
@@ -8456,7 +8594,8 @@
     "latitude": "-12.83333333",
     "longitude": "45.16666666",
     "emoji": "🇾🇹",
-    "emojiU": "U+1F1FE U+1F1F9"
+    "emojiU": "U+1F1FE U+1F1F9",
+    "language_code": "en-US"
   },
   {
     "id": 142,
@@ -8581,7 +8720,8 @@
     "latitude": "23.00000000",
     "longitude": "-102.00000000",
     "emoji": "🇲🇽",
-    "emojiU": "U+1F1F2 U+1F1FD"
+    "emojiU": "U+1F1F2 U+1F1FD",
+    "language_code": "en-US"
   },
   {
     "id": 143,
@@ -8651,7 +8791,8 @@
     "latitude": "6.91666666",
     "longitude": "158.25000000",
     "emoji": "🇫🇲",
-    "emojiU": "U+1F1EB U+1F1F2"
+    "emojiU": "U+1F1EB U+1F1F2",
+    "language_code": "en-US"
   },
   {
     "id": 144,
@@ -8707,7 +8848,8 @@
     "latitude": "47.00000000",
     "longitude": "29.00000000",
     "emoji": "🇲🇩",
-    "emojiU": "U+1F1F2 U+1F1E9"
+    "emojiU": "U+1F1F2 U+1F1E9",
+    "language_code": "en-US"
   },
   {
     "id": 145,
@@ -8762,7 +8904,8 @@
     "latitude": "43.73333333",
     "longitude": "7.40000000",
     "emoji": "🇲🇨",
-    "emojiU": "U+1F1F2 U+1F1E8"
+    "emojiU": "U+1F1F2 U+1F1E8",
+    "language_code": "en-US"
   },
   {
     "id": 146,
@@ -8832,7 +8975,8 @@
     "latitude": "46.00000000",
     "longitude": "105.00000000",
     "emoji": "🇲🇳",
-    "emojiU": "U+1F1F2 U+1F1F3"
+    "emojiU": "U+1F1F2 U+1F1F3",
+    "language_code": "en-US"
   },
   {
     "id": 147,
@@ -8888,7 +9032,8 @@
     "latitude": "42.50000000",
     "longitude": "19.30000000",
     "emoji": "🇲🇪",
-    "emojiU": "U+1F1F2 U+1F1EA"
+    "emojiU": "U+1F1F2 U+1F1EA",
+    "language_code": "en-US"
   },
   {
     "id": 148,
@@ -8944,7 +9089,8 @@
     "latitude": "16.75000000",
     "longitude": "-62.20000000",
     "emoji": "🇲🇸",
-    "emojiU": "U+1F1F2 U+1F1F8"
+    "emojiU": "U+1F1F2 U+1F1F8",
+    "language_code": "en-US"
   },
   {
     "id": 149,
@@ -9006,7 +9152,8 @@
     "latitude": "32.00000000",
     "longitude": "-5.00000000",
     "emoji": "🇲🇦",
-    "emojiU": "U+1F1F2 U+1F1E6"
+    "emojiU": "U+1F1F2 U+1F1E6",
+    "language_code": "en-US"
   },
   {
     "id": 150,
@@ -9062,7 +9209,8 @@
     "latitude": "-18.25000000",
     "longitude": "35.00000000",
     "emoji": "🇲🇿",
-    "emojiU": "U+1F1F2 U+1F1FF"
+    "emojiU": "U+1F1F2 U+1F1FF",
+    "language_code": "en-US"
   },
   {
     "id": 151,
@@ -9118,7 +9266,8 @@
     "latitude": "22.00000000",
     "longitude": "98.00000000",
     "emoji": "🇲🇲",
-    "emojiU": "U+1F1F2 U+1F1F2"
+    "emojiU": "U+1F1F2 U+1F1F2",
+    "language_code": "en-US"
   },
   {
     "id": 152,
@@ -9174,7 +9323,8 @@
     "latitude": "-22.00000000",
     "longitude": "17.00000000",
     "emoji": "🇳🇦",
-    "emojiU": "U+1F1F3 U+1F1E6"
+    "emojiU": "U+1F1F3 U+1F1E6",
+    "language_code": "en-US"
   },
   {
     "id": 153,
@@ -9230,7 +9380,8 @@
     "latitude": "-0.53333333",
     "longitude": "166.91666666",
     "emoji": "🇳🇷",
-    "emojiU": "U+1F1F3 U+1F1F7"
+    "emojiU": "U+1F1F3 U+1F1F7",
+    "language_code": "en-US"
   },
   {
     "id": 154,
@@ -9286,7 +9437,8 @@
     "latitude": "28.00000000",
     "longitude": "84.00000000",
     "emoji": "🇳🇵",
-    "emojiU": "U+1F1F3 U+1F1F5"
+    "emojiU": "U+1F1F3 U+1F1F5",
+    "language_code": "en-US"
   },
   {
     "id": 156,
@@ -9342,7 +9494,8 @@
     "latitude": "52.50000000",
     "longitude": "5.75000000",
     "emoji": "🇳🇱",
-    "emojiU": "U+1F1F3 U+1F1F1"
+    "emojiU": "U+1F1F3 U+1F1F1",
+    "language_code": "en-US"
   },
   {
     "id": 157,
@@ -9398,7 +9551,8 @@
     "latitude": "-21.50000000",
     "longitude": "165.50000000",
     "emoji": "🇳🇨",
-    "emojiU": "U+1F1F3 U+1F1E8"
+    "emojiU": "U+1F1F3 U+1F1E8",
+    "language_code": "en-US"
   },
   {
     "id": 158,
@@ -9461,7 +9615,8 @@
     "latitude": "-41.00000000",
     "longitude": "174.00000000",
     "emoji": "🇳🇿",
-    "emojiU": "U+1F1F3 U+1F1FF"
+    "emojiU": "U+1F1F3 U+1F1FF",
+    "language_code": "en-US"
   },
   {
     "id": 159,
@@ -9517,7 +9672,8 @@
     "latitude": "13.00000000",
     "longitude": "-85.00000000",
     "emoji": "🇳🇮",
-    "emojiU": "U+1F1F3 U+1F1EE"
+    "emojiU": "U+1F1F3 U+1F1EE",
+    "language_code": "en-US"
   },
   {
     "id": 160,
@@ -9573,7 +9729,8 @@
     "latitude": "16.00000000",
     "longitude": "8.00000000",
     "emoji": "🇳🇪",
-    "emojiU": "U+1F1F3 U+1F1EA"
+    "emojiU": "U+1F1F3 U+1F1EA",
+    "language_code": "en-US"
   },
   {
     "id": 161,
@@ -9629,7 +9786,8 @@
     "latitude": "10.00000000",
     "longitude": "8.00000000",
     "emoji": "🇳🇬",
-    "emojiU": "U+1F1F3 U+1F1EC"
+    "emojiU": "U+1F1F3 U+1F1EC",
+    "language_code": "en-US"
   },
   {
     "id": 162,
@@ -9685,7 +9843,8 @@
     "latitude": "-19.03333333",
     "longitude": "-169.86666666",
     "emoji": "🇳🇺",
-    "emojiU": "U+1F1F3 U+1F1FA"
+    "emojiU": "U+1F1F3 U+1F1FA",
+    "language_code": "en-US"
   },
   {
     "id": 163,
@@ -9741,7 +9900,8 @@
     "latitude": "-29.03333333",
     "longitude": "167.95000000",
     "emoji": "🇳🇫",
-    "emojiU": "U+1F1F3 U+1F1EB"
+    "emojiU": "U+1F1F3 U+1F1EB",
+    "language_code": "en-US"
   },
   {
     "id": 115,
@@ -9797,7 +9957,8 @@
     "latitude": "40.00000000",
     "longitude": "127.00000000",
     "emoji": "🇰🇵",
-    "emojiU": "U+1F1F0 U+1F1F5"
+    "emojiU": "U+1F1F0 U+1F1F5",
+    "language_code": "en-US"
   },
   {
     "id": 129,
@@ -9853,7 +10014,8 @@
     "latitude": "41.83333333",
     "longitude": "22.00000000",
     "emoji": "🇲🇰",
-    "emojiU": "U+1F1F2 U+1F1F0"
+    "emojiU": "U+1F1F2 U+1F1F0",
+    "language_code": "en-US"
   },
   {
     "id": 164,
@@ -9909,7 +10071,8 @@
     "latitude": "15.20000000",
     "longitude": "145.75000000",
     "emoji": "🇲🇵",
-    "emojiU": "U+1F1F2 U+1F1F5"
+    "emojiU": "U+1F1F2 U+1F1F5",
+    "language_code": "en-US"
   },
   {
     "id": 165,
@@ -9972,7 +10135,8 @@
     "latitude": "62.00000000",
     "longitude": "10.00000000",
     "emoji": "🇳🇴",
-    "emojiU": "U+1F1F3 U+1F1F4"
+    "emojiU": "U+1F1F3 U+1F1F4",
+    "language_code": "en-US"
   },
   {
     "id": 166,
@@ -10028,7 +10192,8 @@
     "latitude": "21.00000000",
     "longitude": "57.00000000",
     "emoji": "🇴🇲",
-    "emojiU": "U+1F1F4 U+1F1F2"
+    "emojiU": "U+1F1F4 U+1F1F2",
+    "language_code": "en-US"
   },
   {
     "id": 167,
@@ -10084,7 +10249,8 @@
     "latitude": "30.00000000",
     "longitude": "70.00000000",
     "emoji": "🇵🇰",
-    "emojiU": "U+1F1F5 U+1F1F0"
+    "emojiU": "U+1F1F5 U+1F1F0",
+    "language_code": "en-US"
   },
   {
     "id": 168,
@@ -10140,7 +10306,8 @@
     "latitude": "7.50000000",
     "longitude": "134.50000000",
     "emoji": "🇵🇼",
-    "emojiU": "U+1F1F5 U+1F1FC"
+    "emojiU": "U+1F1F5 U+1F1FC",
+    "language_code": "en-US"
   },
   {
     "id": 169,
@@ -10203,7 +10370,8 @@
     "latitude": "31.90000000",
     "longitude": "35.20000000",
     "emoji": "🇵🇸",
-    "emojiU": "U+1F1F5 U+1F1F8"
+    "emojiU": "U+1F1F5 U+1F1F8",
+    "language_code": "en-US"
   },
   {
     "id": 170,
@@ -10259,7 +10427,8 @@
     "latitude": "9.00000000",
     "longitude": "-80.00000000",
     "emoji": "🇵🇦",
-    "emojiU": "U+1F1F5 U+1F1E6"
+    "emojiU": "U+1F1F5 U+1F1E6",
+    "language_code": "en-US"
   },
   {
     "id": 171,
@@ -10322,7 +10491,8 @@
     "latitude": "-6.00000000",
     "longitude": "147.00000000",
     "emoji": "🇵🇬",
-    "emojiU": "U+1F1F5 U+1F1EC"
+    "emojiU": "U+1F1F5 U+1F1EC",
+    "language_code": "en-US"
   },
   {
     "id": 172,
@@ -10378,7 +10548,8 @@
     "latitude": "-23.00000000",
     "longitude": "-58.00000000",
     "emoji": "🇵🇾",
-    "emojiU": "U+1F1F5 U+1F1FE"
+    "emojiU": "U+1F1F5 U+1F1FE",
+    "language_code": "en-US"
   },
   {
     "id": 173,
@@ -10434,7 +10605,8 @@
     "latitude": "-10.00000000",
     "longitude": "-76.00000000",
     "emoji": "🇵🇪",
-    "emojiU": "U+1F1F5 U+1F1EA"
+    "emojiU": "U+1F1F5 U+1F1EA",
+    "language_code": "en-US"
   },
   {
     "id": 174,
@@ -10490,7 +10662,8 @@
     "latitude": "13.00000000",
     "longitude": "122.00000000",
     "emoji": "🇵🇭",
-    "emojiU": "U+1F1F5 U+1F1ED"
+    "emojiU": "U+1F1F5 U+1F1ED",
+    "language_code": "en-US"
   },
   {
     "id": 175,
@@ -10546,7 +10719,8 @@
     "latitude": "-25.06666666",
     "longitude": "-130.10000000",
     "emoji": "🇵🇳",
-    "emojiU": "U+1F1F5 U+1F1F3"
+    "emojiU": "U+1F1F5 U+1F1F3",
+    "language_code": "en-US"
   },
   {
     "id": 176,
@@ -10602,7 +10776,8 @@
     "latitude": "52.00000000",
     "longitude": "20.00000000",
     "emoji": "🇵🇱",
-    "emojiU": "U+1F1F5 U+1F1F1"
+    "emojiU": "U+1F1F5 U+1F1F1",
+    "language_code": "en-US"
   },
   {
     "id": 177,
@@ -10672,7 +10847,8 @@
     "latitude": "39.50000000",
     "longitude": "-8.00000000",
     "emoji": "🇵🇹",
-    "emojiU": "U+1F1F5 U+1F1F9"
+    "emojiU": "U+1F1F5 U+1F1F9",
+    "language_code": "en-US"
   },
   {
     "id": 178,
@@ -10727,7 +10903,8 @@
     "latitude": "18.25000000",
     "longitude": "-66.50000000",
     "emoji": "🇵🇷",
-    "emojiU": "U+1F1F5 U+1F1F7"
+    "emojiU": "U+1F1F5 U+1F1F7",
+    "language_code": "en-US"
   },
   {
     "id": 179,
@@ -10783,7 +10960,8 @@
     "latitude": "25.50000000",
     "longitude": "51.25000000",
     "emoji": "🇶🇦",
-    "emojiU": "U+1F1F6 U+1F1E6"
+    "emojiU": "U+1F1F6 U+1F1E6",
+    "language_code": "en-US"
   },
   {
     "id": 180,
@@ -10839,7 +11017,8 @@
     "latitude": "-21.15000000",
     "longitude": "55.50000000",
     "emoji": "🇷🇪",
-    "emojiU": "U+1F1F7 U+1F1EA"
+    "emojiU": "U+1F1F7 U+1F1EA",
+    "language_code": "en-US"
   },
   {
     "id": 181,
@@ -10895,7 +11074,8 @@
     "latitude": "46.00000000",
     "longitude": "25.00000000",
     "emoji": "🇷🇴",
-    "emojiU": "U+1F1F7 U+1F1F4"
+    "emojiU": "U+1F1F7 U+1F1F4",
+    "language_code": "en-US"
   },
   {
     "id": 182,
@@ -11126,7 +11306,8 @@
     "latitude": "60.00000000",
     "longitude": "100.00000000",
     "emoji": "🇷🇺",
-    "emojiU": "U+1F1F7 U+1F1FA"
+    "emojiU": "U+1F1F7 U+1F1FA",
+    "language_code": "en-US"
   },
   {
     "id": 183,
@@ -11182,7 +11363,8 @@
     "latitude": "-2.00000000",
     "longitude": "30.00000000",
     "emoji": "🇷🇼",
-    "emojiU": "U+1F1F7 U+1F1FC"
+    "emojiU": "U+1F1F7 U+1F1FC",
+    "language_code": "en-US"
   },
   {
     "id": 184,
@@ -11238,7 +11420,8 @@
     "latitude": "-15.95000000",
     "longitude": "-5.70000000",
     "emoji": "🇸🇭",
-    "emojiU": "U+1F1F8 U+1F1ED"
+    "emojiU": "U+1F1F8 U+1F1ED",
+    "language_code": "en-US"
   },
   {
     "id": 185,
@@ -11294,7 +11477,8 @@
     "latitude": "17.33333333",
     "longitude": "-62.75000000",
     "emoji": "🇰🇳",
-    "emojiU": "U+1F1F0 U+1F1F3"
+    "emojiU": "U+1F1F0 U+1F1F3",
+    "language_code": "en-US"
   },
   {
     "id": 186,
@@ -11350,7 +11534,8 @@
     "latitude": "13.88333333",
     "longitude": "-60.96666666",
     "emoji": "🇱🇨",
-    "emojiU": "U+1F1F1 U+1F1E8"
+    "emojiU": "U+1F1F1 U+1F1E8",
+    "language_code": "en-US"
   },
   {
     "id": 187,
@@ -11406,7 +11591,8 @@
     "latitude": "46.83333333",
     "longitude": "-56.33333333",
     "emoji": "🇵🇲",
-    "emojiU": "U+1F1F5 U+1F1F2"
+    "emojiU": "U+1F1F5 U+1F1F2",
+    "language_code": "en-US"
   },
   {
     "id": 188,
@@ -11462,7 +11648,8 @@
     "latitude": "13.25000000",
     "longitude": "-61.20000000",
     "emoji": "🇻🇨",
-    "emojiU": "U+1F1FB U+1F1E8"
+    "emojiU": "U+1F1FB U+1F1E8",
+    "language_code": "en-US"
   },
   {
     "id": 189,
@@ -11518,7 +11705,8 @@
     "latitude": "18.50000000",
     "longitude": "-63.41666666",
     "emoji": "🇧🇱",
-    "emojiU": "U+1F1E7 U+1F1F1"
+    "emojiU": "U+1F1E7 U+1F1F1",
+    "language_code": "en-US"
   },
   {
     "id": 190,
@@ -11574,7 +11762,8 @@
     "latitude": "18.08333333",
     "longitude": "-63.95000000",
     "emoji": "🇲🇫",
-    "emojiU": "U+1F1F2 U+1F1EB"
+    "emojiU": "U+1F1F2 U+1F1EB",
+    "language_code": "en-US"
   },
   {
     "id": 191,
@@ -11630,7 +11819,8 @@
     "latitude": "-13.58333333",
     "longitude": "-172.33333333",
     "emoji": "🇼🇸",
-    "emojiU": "U+1F1FC U+1F1F8"
+    "emojiU": "U+1F1FC U+1F1F8",
+    "language_code": "en-US"
   },
   {
     "id": 192,
@@ -11686,7 +11876,8 @@
     "latitude": "43.76666666",
     "longitude": "12.41666666",
     "emoji": "🇸🇲",
-    "emojiU": "U+1F1F8 U+1F1F2"
+    "emojiU": "U+1F1F8 U+1F1F2",
+    "language_code": "en-US"
   },
   {
     "id": 193,
@@ -11742,7 +11933,8 @@
     "latitude": "1.00000000",
     "longitude": "7.00000000",
     "emoji": "🇸🇹",
-    "emojiU": "U+1F1F8 U+1F1F9"
+    "emojiU": "U+1F1F8 U+1F1F9",
+    "language_code": "en-US"
   },
   {
     "id": 194,
@@ -11798,7 +11990,8 @@
     "latitude": "25.00000000",
     "longitude": "45.00000000",
     "emoji": "🇸🇦",
-    "emojiU": "U+1F1F8 U+1F1E6"
+    "emojiU": "U+1F1F8 U+1F1E6",
+    "language_code": "en-US"
   },
   {
     "id": 195,
@@ -11854,7 +12047,8 @@
     "latitude": "14.00000000",
     "longitude": "-14.00000000",
     "emoji": "🇸🇳",
-    "emojiU": "U+1F1F8 U+1F1F3"
+    "emojiU": "U+1F1F8 U+1F1F3",
+    "language_code": "en-US"
   },
   {
     "id": 196,
@@ -11910,7 +12104,8 @@
     "latitude": "44.00000000",
     "longitude": "21.00000000",
     "emoji": "🇷🇸",
-    "emojiU": "U+1F1F7 U+1F1F8"
+    "emojiU": "U+1F1F7 U+1F1F8",
+    "language_code": "en-US"
   },
   {
     "id": 197,
@@ -11966,7 +12161,8 @@
     "latitude": "-4.65749770",
     "longitude": "55.45401460",
     "emoji": "🇸🇨",
-    "emojiU": "U+1F1F8 U+1F1E8"
+    "emojiU": "U+1F1F8 U+1F1E8",
+    "language_code": "en-US"
   },
   {
     "id": 198,
@@ -12022,7 +12218,8 @@
     "latitude": "8.50000000",
     "longitude": "-11.50000000",
     "emoji": "🇸🇱",
-    "emojiU": "U+1F1F8 U+1F1F1"
+    "emojiU": "U+1F1F8 U+1F1F1",
+    "language_code": "en-US"
   },
   {
     "id": 199,
@@ -12078,7 +12275,8 @@
     "latitude": "1.36666666",
     "longitude": "103.80000000",
     "emoji": "🇸🇬",
-    "emojiU": "U+1F1F8 U+1F1EC"
+    "emojiU": "U+1F1F8 U+1F1EC",
+    "language_code": "en-US"
   },
   {
     "id": 250,
@@ -12131,7 +12329,8 @@
     "latitude": "18.03333300",
     "longitude": "-63.05000000",
     "emoji": "🇸🇽",
-    "emojiU": "U+1F1F8 U+1F1FD"
+    "emojiU": "U+1F1F8 U+1F1FD",
+    "language_code": "en-US"
   },
   {
     "id": 200,
@@ -12187,7 +12386,8 @@
     "latitude": "48.66666666",
     "longitude": "19.50000000",
     "emoji": "🇸🇰",
-    "emojiU": "U+1F1F8 U+1F1F0"
+    "emojiU": "U+1F1F8 U+1F1F0",
+    "language_code": "en-US"
   },
   {
     "id": 201,
@@ -12243,7 +12443,8 @@
     "latitude": "46.11666666",
     "longitude": "14.81666666",
     "emoji": "🇸🇮",
-    "emojiU": "U+1F1F8 U+1F1EE"
+    "emojiU": "U+1F1F8 U+1F1EE",
+    "language_code": "en-US"
   },
   {
     "id": 202,
@@ -12299,7 +12500,8 @@
     "latitude": "-8.00000000",
     "longitude": "159.00000000",
     "emoji": "🇸🇧",
-    "emojiU": "U+1F1F8 U+1F1E7"
+    "emojiU": "U+1F1F8 U+1F1E7",
+    "language_code": "en-US"
   },
   {
     "id": 203,
@@ -12355,7 +12557,8 @@
     "latitude": "10.00000000",
     "longitude": "49.00000000",
     "emoji": "🇸🇴",
-    "emojiU": "U+1F1F8 U+1F1F4"
+    "emojiU": "U+1F1F8 U+1F1F4",
+    "language_code": "en-US"
   },
   {
     "id": 204,
@@ -12411,7 +12614,8 @@
     "latitude": "-29.00000000",
     "longitude": "24.00000000",
     "emoji": "🇿🇦",
-    "emojiU": "U+1F1FF U+1F1E6"
+    "emojiU": "U+1F1FF U+1F1E6",
+    "language_code": "en-US"
   },
   {
     "id": 205,
@@ -12467,7 +12671,8 @@
     "latitude": "-54.50000000",
     "longitude": "-37.00000000",
     "emoji": "🇬🇸",
-    "emojiU": "U+1F1EC U+1F1F8"
+    "emojiU": "U+1F1EC U+1F1F8",
+    "language_code": "en-US"
   },
   {
     "id": 116,
@@ -12523,7 +12728,8 @@
     "latitude": "37.00000000",
     "longitude": "127.50000000",
     "emoji": "🇰🇷",
-    "emojiU": "U+1F1F0 U+1F1F7"
+    "emojiU": "U+1F1F0 U+1F1F7",
+    "language_code": "en-US"
   },
   {
     "id": 206,
@@ -12579,7 +12785,8 @@
     "latitude": "7.00000000",
     "longitude": "30.00000000",
     "emoji": "🇸🇸",
-    "emojiU": "U+1F1F8 U+1F1F8"
+    "emojiU": "U+1F1F8 U+1F1F8",
+    "language_code": "en-US"
   },
   {
     "id": 207,
@@ -12649,7 +12856,8 @@
     "latitude": "40.00000000",
     "longitude": "-4.00000000",
     "emoji": "🇪🇸",
-    "emojiU": "U+1F1EA U+1F1F8"
+    "emojiU": "U+1F1EA U+1F1F8",
+    "language_code": "en-US"
   },
   {
     "id": 208,
@@ -12705,7 +12913,8 @@
     "latitude": "7.00000000",
     "longitude": "81.00000000",
     "emoji": "🇱🇰",
-    "emojiU": "U+1F1F1 U+1F1F0"
+    "emojiU": "U+1F1F1 U+1F1F0",
+    "language_code": "en-US"
   },
   {
     "id": 209,
@@ -12761,7 +12970,8 @@
     "latitude": "15.00000000",
     "longitude": "30.00000000",
     "emoji": "🇸🇩",
-    "emojiU": "U+1F1F8 U+1F1E9"
+    "emojiU": "U+1F1F8 U+1F1E9",
+    "language_code": "en-US"
   },
   {
     "id": 210,
@@ -12817,7 +13027,8 @@
     "latitude": "4.00000000",
     "longitude": "-56.00000000",
     "emoji": "🇸🇷",
-    "emojiU": "U+1F1F8 U+1F1F7"
+    "emojiU": "U+1F1F8 U+1F1F7",
+    "language_code": "en-US"
   },
   {
     "id": 211,
@@ -12873,7 +13084,8 @@
     "latitude": "78.00000000",
     "longitude": "20.00000000",
     "emoji": "🇸🇯",
-    "emojiU": "U+1F1F8 U+1F1EF"
+    "emojiU": "U+1F1F8 U+1F1EF",
+    "language_code": "en-US"
   },
   {
     "id": 213,
@@ -12929,7 +13141,8 @@
     "latitude": "62.00000000",
     "longitude": "15.00000000",
     "emoji": "🇸🇪",
-    "emojiU": "U+1F1F8 U+1F1EA"
+    "emojiU": "U+1F1F8 U+1F1EA",
+    "language_code": "en-US"
   },
   {
     "id": 214,
@@ -12985,7 +13198,8 @@
     "latitude": "47.00000000",
     "longitude": "8.00000000",
     "emoji": "🇨🇭",
-    "emojiU": "U+1F1E8 U+1F1ED"
+    "emojiU": "U+1F1E8 U+1F1ED",
+    "language_code": "en-US"
   },
   {
     "id": 215,
@@ -13041,7 +13255,8 @@
     "latitude": "35.00000000",
     "longitude": "38.00000000",
     "emoji": "🇸🇾",
-    "emojiU": "U+1F1F8 U+1F1FE"
+    "emojiU": "U+1F1F8 U+1F1FE",
+    "language_code": "en-US"
   },
   {
     "id": 216,
@@ -13097,7 +13312,8 @@
     "latitude": "23.50000000",
     "longitude": "121.00000000",
     "emoji": "🇹🇼",
-    "emojiU": "U+1F1F9 U+1F1FC"
+    "emojiU": "U+1F1F9 U+1F1FC",
+    "language_code": "en-US"
   },
   {
     "id": 217,
@@ -13153,7 +13369,8 @@
     "latitude": "39.00000000",
     "longitude": "71.00000000",
     "emoji": "🇹🇯",
-    "emojiU": "U+1F1F9 U+1F1EF"
+    "emojiU": "U+1F1F9 U+1F1EF",
+    "language_code": "en-US"
   },
   {
     "id": 218,
@@ -13209,7 +13426,8 @@
     "latitude": "-6.00000000",
     "longitude": "35.00000000",
     "emoji": "🇹🇿",
-    "emojiU": "U+1F1F9 U+1F1FF"
+    "emojiU": "U+1F1F9 U+1F1FF",
+    "language_code": "en-US"
   },
   {
     "id": 219,
@@ -13265,7 +13483,8 @@
     "latitude": "15.00000000",
     "longitude": "100.00000000",
     "emoji": "🇹🇭",
-    "emojiU": "U+1F1F9 U+1F1ED"
+    "emojiU": "U+1F1F9 U+1F1ED",
+    "language_code": "en-US"
   },
   {
     "id": 17,
@@ -13321,7 +13540,8 @@
     "latitude": "24.25000000",
     "longitude": "-76.00000000",
     "emoji": "🇧🇸",
-    "emojiU": "U+1F1E7 U+1F1F8"
+    "emojiU": "U+1F1E7 U+1F1F8",
+    "language_code": "en-US"
   },
   {
     "id": 80,
@@ -13377,7 +13597,8 @@
     "latitude": "13.46666666",
     "longitude": "-16.56666666",
     "emoji": "🇬🇲",
-    "emojiU": "U+1F1EC U+1F1F2"
+    "emojiU": "U+1F1EC U+1F1F2",
+    "language_code": "en-US"
   },
   {
     "id": 63,
@@ -13433,7 +13654,8 @@
     "latitude": "-8.83333333",
     "longitude": "125.91666666",
     "emoji": "🇹🇱",
-    "emojiU": "U+1F1F9 U+1F1F1"
+    "emojiU": "U+1F1F9 U+1F1F1",
+    "language_code": "en-US"
   },
   {
     "id": 220,
@@ -13489,7 +13711,8 @@
     "latitude": "8.00000000",
     "longitude": "1.16666666",
     "emoji": "🇹🇬",
-    "emojiU": "U+1F1F9 U+1F1EC"
+    "emojiU": "U+1F1F9 U+1F1EC",
+    "language_code": "en-US"
   },
   {
     "id": 221,
@@ -13545,7 +13768,8 @@
     "latitude": "-9.00000000",
     "longitude": "-172.00000000",
     "emoji": "🇹🇰",
-    "emojiU": "U+1F1F9 U+1F1F0"
+    "emojiU": "U+1F1F9 U+1F1F0",
+    "language_code": "en-US"
   },
   {
     "id": 222,
@@ -13601,7 +13825,8 @@
     "latitude": "-20.00000000",
     "longitude": "-175.00000000",
     "emoji": "🇹🇴",
-    "emojiU": "U+1F1F9 U+1F1F4"
+    "emojiU": "U+1F1F9 U+1F1F4",
+    "language_code": "en-US"
   },
   {
     "id": 223,
@@ -13657,7 +13882,8 @@
     "latitude": "11.00000000",
     "longitude": "-61.00000000",
     "emoji": "🇹🇹",
-    "emojiU": "U+1F1F9 U+1F1F9"
+    "emojiU": "U+1F1F9 U+1F1F9",
+    "language_code": "en-US"
   },
   {
     "id": 224,
@@ -13713,7 +13939,8 @@
     "latitude": "34.00000000",
     "longitude": "9.00000000",
     "emoji": "🇹🇳",
-    "emojiU": "U+1F1F9 U+1F1F3"
+    "emojiU": "U+1F1F9 U+1F1F3",
+    "language_code": "en-US"
   },
   {
     "id": 225,
@@ -13769,7 +13996,8 @@
     "latitude": "39.00000000",
     "longitude": "35.00000000",
     "emoji": "🇹🇷",
-    "emojiU": "U+1F1F9 U+1F1F7"
+    "emojiU": "U+1F1F9 U+1F1F7",
+    "language_code": "en-US"
   },
   {
     "id": 226,
@@ -13825,7 +14053,8 @@
     "latitude": "40.00000000",
     "longitude": "60.00000000",
     "emoji": "🇹🇲",
-    "emojiU": "U+1F1F9 U+1F1F2"
+    "emojiU": "U+1F1F9 U+1F1F2",
+    "language_code": "en-US"
   },
   {
     "id": 227,
@@ -13881,7 +14110,8 @@
     "latitude": "21.75000000",
     "longitude": "-71.58333333",
     "emoji": "🇹🇨",
-    "emojiU": "U+1F1F9 U+1F1E8"
+    "emojiU": "U+1F1F9 U+1F1E8",
+    "language_code": "en-US"
   },
   {
     "id": 228,
@@ -13937,7 +14167,8 @@
     "latitude": "-8.00000000",
     "longitude": "178.00000000",
     "emoji": "🇹🇻",
-    "emojiU": "U+1F1F9 U+1F1FB"
+    "emojiU": "U+1F1F9 U+1F1FB",
+    "language_code": "en-US"
   },
   {
     "id": 229,
@@ -13993,7 +14224,8 @@
     "latitude": "1.00000000",
     "longitude": "32.00000000",
     "emoji": "🇺🇬",
-    "emojiU": "U+1F1FA U+1F1EC"
+    "emojiU": "U+1F1FA U+1F1EC",
+    "language_code": "en-US"
   },
   {
     "id": 230,
@@ -14070,7 +14302,8 @@
     "latitude": "49.00000000",
     "longitude": "32.00000000",
     "emoji": "🇺🇦",
-    "emojiU": "U+1F1FA U+1F1E6"
+    "emojiU": "U+1F1FA U+1F1E6",
+    "language_code": "en-US"
   },
   {
     "id": 231,
@@ -14126,7 +14359,8 @@
     "latitude": "24.00000000",
     "longitude": "54.00000000",
     "emoji": "🇦🇪",
-    "emojiU": "U+1F1E6 U+1F1EA"
+    "emojiU": "U+1F1E6 U+1F1EA",
+    "language_code": "en-US"
   },
   {
     "id": 232,
@@ -14182,7 +14416,8 @@
     "latitude": "54.00000000",
     "longitude": "-2.00000000",
     "emoji": "🇬🇧",
-    "emojiU": "U+1F1EC U+1F1E7"
+    "emojiU": "U+1F1EC U+1F1E7",
+    "language_code": "en-US"
   },
   {
     "id": 233,
@@ -14434,7 +14669,8 @@
     "latitude": "38.00000000",
     "longitude": "-97.00000000",
     "emoji": "🇺🇸",
-    "emojiU": "U+1F1FA U+1F1F8"
+    "emojiU": "U+1F1FA U+1F1F8",
+    "language_code": "en-US"
   },
   {
     "id": 234,
@@ -14497,7 +14733,8 @@
     "latitude": "0.00000000",
     "longitude": "0.00000000",
     "emoji": "🇺🇲",
-    "emojiU": "U+1F1FA U+1F1F2"
+    "emojiU": "U+1F1FA U+1F1F2",
+    "language_code": "en-US"
   },
   {
     "id": 235,
@@ -14553,7 +14790,8 @@
     "latitude": "-33.00000000",
     "longitude": "-56.00000000",
     "emoji": "🇺🇾",
-    "emojiU": "U+1F1FA U+1F1FE"
+    "emojiU": "U+1F1FA U+1F1FE",
+    "language_code": "en-US"
   },
   {
     "id": 236,
@@ -14616,7 +14854,8 @@
     "latitude": "41.00000000",
     "longitude": "64.00000000",
     "emoji": "🇺🇿",
-    "emojiU": "U+1F1FA U+1F1FF"
+    "emojiU": "U+1F1FA U+1F1FF",
+    "language_code": "en-US"
   },
   {
     "id": 237,
@@ -14672,7 +14911,8 @@
     "latitude": "-16.00000000",
     "longitude": "167.00000000",
     "emoji": "🇻🇺",
-    "emojiU": "U+1F1FB U+1F1FA"
+    "emojiU": "U+1F1FB U+1F1FA",
+    "language_code": "en-US"
   },
   {
     "id": 238,
@@ -14728,7 +14968,8 @@
     "latitude": "41.90000000",
     "longitude": "12.45000000",
     "emoji": "🇻🇦",
-    "emojiU": "U+1F1FB U+1F1E6"
+    "emojiU": "U+1F1FB U+1F1E6",
+    "language_code": "en-US"
   },
   {
     "id": 239,
@@ -14784,7 +15025,8 @@
     "latitude": "8.00000000",
     "longitude": "-66.00000000",
     "emoji": "🇻🇪",
-    "emojiU": "U+1F1FB U+1F1EA"
+    "emojiU": "U+1F1FB U+1F1EA",
+    "language_code": "en-US"
   },
   {
     "id": 240,
@@ -14840,7 +15082,8 @@
     "latitude": "16.16666666",
     "longitude": "107.83333333",
     "emoji": "🇻🇳",
-    "emojiU": "U+1F1FB U+1F1F3"
+    "emojiU": "U+1F1FB U+1F1F3",
+    "language_code": "en-US"
   },
   {
     "id": 241,
@@ -14896,7 +15139,8 @@
     "latitude": "18.43138300",
     "longitude": "-64.62305000",
     "emoji": "🇻🇬",
-    "emojiU": "U+1F1FB U+1F1EC"
+    "emojiU": "U+1F1FB U+1F1EC",
+    "language_code": "en-US"
   },
   {
     "id": 242,
@@ -14951,7 +15195,8 @@
     "latitude": "18.34000000",
     "longitude": "-64.93000000",
     "emoji": "🇻🇮",
-    "emojiU": "U+1F1FB U+1F1EE"
+    "emojiU": "U+1F1FB U+1F1EE",
+    "language_code": "en-US"
   },
   {
     "id": 243,
@@ -15007,7 +15252,8 @@
     "latitude": "-13.30000000",
     "longitude": "-176.20000000",
     "emoji": "🇼🇫",
-    "emojiU": "U+1F1FC U+1F1EB"
+    "emojiU": "U+1F1FC U+1F1EB",
+    "language_code": "en-US"
   },
   {
     "id": 244,
@@ -15063,7 +15309,8 @@
     "latitude": "24.50000000",
     "longitude": "-13.00000000",
     "emoji": "🇪🇭",
-    "emojiU": "U+1F1EA U+1F1ED"
+    "emojiU": "U+1F1EA U+1F1ED",
+    "language_code": "en-US"
   },
   {
     "id": 245,
@@ -15119,7 +15366,8 @@
     "latitude": "15.00000000",
     "longitude": "48.00000000",
     "emoji": "🇾🇪",
-    "emojiU": "U+1F1FE U+1F1EA"
+    "emojiU": "U+1F1FE U+1F1EA",
+    "language_code": "en-US"
   },
   {
     "id": 246,
@@ -15175,7 +15423,8 @@
     "latitude": "-15.00000000",
     "longitude": "30.00000000",
     "emoji": "🇿🇲",
-    "emojiU": "U+1F1FF U+1F1F2"
+    "emojiU": "U+1F1FF U+1F1F2",
+    "language_code": "en-US"
   },
   {
     "id": 247,
@@ -15231,6 +15480,7 @@
     "latitude": "-20.00000000",
     "longitude": "30.00000000",
     "emoji": "🇿🇼",
-    "emojiU": "U+1F1FF U+1F1FC"
+    "emojiU": "U+1F1FF U+1F1FC",
+    "language_code": "en-US"
   }
 ]
